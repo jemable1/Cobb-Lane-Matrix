@@ -8,7 +8,7 @@ An interactive brand positioning chart mapping Cobb Lane against 12 competing Me
 
 The chart includes two views you can toggle between, plus a flag for bakeries with notable organic TikTok buzz.
 
-**[View the live chart →](#)** *(replace this with your GitHub Pages URL once published — see below)*
+**https://github.com/jemable1/Cobb-Lane-Matrix.git** *(replace this with your GitHub Pages URL once published — see below)*
 
 ---
 
