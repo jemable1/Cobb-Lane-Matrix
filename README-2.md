@@ -2,7 +2,7 @@
 
 An interactive, four-tab dashboard positioning Cobb Lane against 12–13 competing Melbourne bakeries — two brand-positioning views and two social engagement views.
 
-**[View the live dashboard →](#)** *(replace this with your GitHub Pages URL once published — see below)*
+**https://jemable1.github.io/Cobb-Lane-Matrix/** *(replace this with your GitHub Pages URL once published — see below)*
 
 ---
 
